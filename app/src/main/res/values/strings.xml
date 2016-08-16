@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AlertDialog Project</string>
+    <string name="open_alert_dialog">Open Alert Dialog</string>
+    <string name="open_custom_alert_dialog">Open Custom Alert Dialog</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_devinfo">Developer</string>
+    <string name="share_app">Share App</string>
+    <string name="language_setting">Change Language</string>
+    <string name="action_change_pass">Change Password</string>
+    <string name="language_dialog_title">Language Setting</string>
+    <string name="language_dialog_message">Select a Language</string>
+
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_devinfo">डेवेलपर</string>
+    <string name="action_logout">लॉग आउट</string>
+    <string name="action_search">खोज</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="share_app">एप शेयर कीजिए</string>
+    <string name="language_setting">भाषा बदलें</string>
+    <string name="action_change_pass">पासवर्ड बदलें</string>
+    <string name="app_name">चेतावनी संवाद परियोजना</string>
+    <string name="open_alert_dialog">ओपन चेतावनी संवाद</string>
+    <string name="open_custom_alert_dialog">ओपन कस्टम चेतावनी संवाद</string>
+    <string name="language_dialog_title">भाषा सेटिंग</string>
+    <string name="language_dialog_message">भाषा चुनें</string>
+
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>Hindi</item>
+    </string-array>
+
+</resources>
